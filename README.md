@@ -1,14 +1,14 @@
-# FlyRank Capstone
+## Getting Started
 
-This repository is created for the FlyRank Frontend AI Engineering Internship.
+### Prerequisites
 
-## Stack
+- Node.js 18+ (or 20+ recommended)
+- npm, pnpm, or yarn
 
-- React
-- TypeScript
-- TailwindCSS
-- Vite
+### Setup
 
-## Goal
-
-Build AI-powered frontend applications while following Git best practices.
+```bash
+git clone <repo-url>
+cd flyrank-capstone
+npm install
+```
