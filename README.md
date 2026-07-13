@@ -12,3 +12,9 @@ git clone <repo-url>
 cd flyrank-capstone
 npm install
 ```
+
+## Internship Assignments
+
+- [Workflow Audit](assignments/week-01/workflow-audit.md)
+- [Portfolio Sitemap](assignments/week-01/portfolio-sitemap.md)
+- [Pressure Test](assignments/week-01/pressure-test.md)
