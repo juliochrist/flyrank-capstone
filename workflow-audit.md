@@ -1,7 +1,7 @@
 # AI Workflow Audit
 
-**Name:** Julio Christianto  
-**Track:** General AI Fluency  
+**Name:** Julio Christianto
+**Track:** General AI Fluency
 **Date:** July 2026
 
 ---
