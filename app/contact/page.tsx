@@ -27,7 +27,7 @@ export default function ContactPage() {
                 href="mailto:julio@example.com"
                 className="text-primary transition hover:text-primary-hover"
               >
-                julio@example.com
+julio.christianto@10x.ai
               </a>
             </p>
           </Card>
