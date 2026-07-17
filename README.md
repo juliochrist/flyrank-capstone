@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Phase 3 — Next.js Starter
 
 - **Live Preview:** [flyrank-capstone.vercel.app](https://flyrank-capstone.vercel.app/)
-- **Repository:** [github.com/juliochrist/flyrank-capstone](https://github.com/juliochrist/flyrank-capstone)
+- **Repository:** [github.com/juliochrist/intern-flyrank-capstone](https://github.com/juliochrist/intern-flyrank-capstone)
 - **Health Check:** `/health`
 - **Technologies:** Next.js 15, React 19, TypeScript, Tailwind CSS v4, React Hook Form
 
