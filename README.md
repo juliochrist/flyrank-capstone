@@ -35,6 +35,7 @@
 
 - [Using AI Effectively in React Development](assignments/week-03/using-ai-effectively-react.md)
 - [Build Core](assignments/week-03/build-core.md)
+- [Identity Kit](assignments/week-03/identity-kit.md)
 - [AI React Development Assignment](assignments/week-03/ai-react-development/prompts-used.md)
 - [Documentation](assignments/week-03/ai-react-development/ai-assistance.md)
 - [Prompt History](assignments/week-03/ai-react-development/prompts-used.md)
@@ -51,8 +52,9 @@
 ### Week 3
 
 - ✅ Using AI Effectively in React Development
-- 🚧 Build Core
-- 📄 AI React Development Assignment
-- 📄 Documentation
-- 📄 Prompt History
-- 📄 Manual Improvements
+- ✅ Build Core
+- ✅ Identity Kit
+- 🚧 AI React Development Assignment
+  - 🚧 Documentation
+  - 🚧 Prompt History
+  - 🚧 Manual Improvements
