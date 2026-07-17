@@ -58,3 +58,24 @@ Open [http://localhost:3000](http://localhost:3000).
 
 - [Using AI Effectively in React Development](assignments/week-03/using-ai-effectively-react.md)
 - [Build Core](assignments/week-03/build-core.md)
+- [AI React Development Assignment](assignments/week-03/ai-react-development/prompts-used.md)
+  - [Documentation](assignments/week-03/ai-react-development/ai-assistance.md)
+  - [Prompt history](assignments/week-03/ai-react-development/prompts-used.md)
+  - [Manual improvements](assignments/week-03/ai-react-development/manual-improvements.md)
+
+---
+
+## FlyRank Internship Progress
+
+- ✅ Week 1 Completed
+- ✅ Week 2 Completed
+- 🚧 Week 3 In Progress
+
+### Week 3
+
+- ✅ Using AI Effectively in React Development
+- ✅ Build Core
+- 🚧 AI React Development Assignment
+  - 🚧 Documentation
+  - 🚧 Prompt history
+  - 🚧 Manual improvements
